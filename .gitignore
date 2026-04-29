@@ -3,6 +3,11 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+datasets/store-clicks.csv
+datasets/store-products.csv
+datasets/store-purchases.csv
+
+
 # C extensions
 *.so
 
